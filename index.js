@@ -7,6 +7,7 @@ function returnsANamedFunction() {
     return function namedFunction() {} 
 }
 
+// Finalised test to check for returned Anonymous Function
 function returnsAnAnonymousFunction() {
     return function() {}
 }
